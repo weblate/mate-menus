@@ -1,27 +1,29 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
 # This file is distributed under the same license as the mate-menus package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
-# Translators:
 # Imants Liepiņš <imzzinator@gmail.com>, 2018
 # reki the human <voiceofwise1@gmail.com>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2021
 # Rihards Priedītis <rprieditis@gmail.com>, 2025
-# 
+# Rihards Prieditis <rprieditis@gmail.com>, 2026.
+#
+# Translators:
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: mate-menus 1.26.0\n"
 "Report-Msgid-Bugs-To: https://mate-desktop.org\n"
 "POT-Creation-Date: 2022-10-29 15:26+0200\n"
-"PO-Revision-Date: 2018-03-11 19:02+0000\n"
-"Last-Translator: Rihards Priedītis <rprieditis@gmail.com>, 2025\n"
-"Language-Team: Latvian (https://app.transifex.com/mate/teams/13566/lv/)\n"
+"PO-Revision-Date: 2026-11-19 21:20+0000\n"
+"Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
+"Language-Team: Latvian <https://translate.fedoraproject.org/projects/mate-"
+"desktop/applications/mate-menus/lv/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lv\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2;\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 #: desktop-directories/mate-audio-video.directory.in:3
 msgid "Sound & Video"
@@ -37,11 +39,11 @@ msgstr "Kolekcija"
 
 #: desktop-directories/mate-collection.directory.in:4
 msgid "The most frequently used shortcuts"
-msgstr "Biežāk lietotie īsinājumtaustiņi"
+msgstr "Visbiežāk lietotās lietotnes"
 
 #: desktop-directories/mate-development.directory.in:3
 msgid "Programming"
-msgstr "Programmēšana"
+msgstr "Programmēšanas"
 
 #: desktop-directories/mate-development.directory.in:4
 msgid "Tools for software development"
@@ -57,7 +59,7 @@ msgstr "Spēles"
 
 #: desktop-directories/mate-game.directory.in:4
 msgid "Games and amusements"
-msgstr "Spēles un izklaides programmas"
+msgstr "Spēles un izklaides"
 
 #: desktop-directories/mate-graphics.directory.in:3
 msgid "Graphics"
@@ -65,7 +67,7 @@ msgstr "Grafika"
 
 #: desktop-directories/mate-graphics.directory.in:4
 msgid "Graphics applications"
-msgstr "Grafikas programmas"
+msgstr "Grafikas lietotnes"
 
 #: desktop-directories/mate-hardware.directory.in:3
 msgid "Hardware"
@@ -73,7 +75,7 @@ msgstr "Aparatūra"
 
 #: desktop-directories/mate-hardware.directory.in:4
 msgid "Settings for several hardware devices"
-msgstr "Dažu aparatūras ierīču iestatījumi"
+msgstr "Dažādu aparatūras ierīču iestatījumi"
 
 #: desktop-directories/mate-internet-and-network.directory.in:3
 msgid "Internet and Network"
@@ -97,7 +99,7 @@ msgstr "Internets"
 
 #: desktop-directories/mate-network.directory.in:4
 msgid "Programs for Internet access such as web and email"
-msgstr "Programmas darbam internetā kā tīmekļa pārlūkošana un e-pasts"
+msgstr "Lietotnes darbam internetā, piemēram, tīmekļa pārlūkošanai un e-pastam"
 
 #: desktop-directories/mate-office.directory.in:3
 msgid "Office"
@@ -126,7 +128,7 @@ msgstr "Sistēmas iestatījumu maiņa (ietekmē visus lietotājus)"
 
 #: desktop-directories/mate-settings.directory.in:3
 msgid "Preferences"
-msgstr "Iestatījumi"
+msgstr "Preferences"
 
 #: desktop-directories/mate-settings.directory.in:4
 msgid "Personal preferences"
@@ -143,7 +145,7 @@ msgstr "Sistēmas iestatījumi"
 
 #: desktop-directories/mate-system-tools.directory.in:3
 msgid "System Tools"
-msgstr "Sistēma rīki"
+msgstr "Sistēmas rīki"
 
 #: desktop-directories/mate-system-tools.directory.in:4
 msgid "System configuration and monitoring"
@@ -151,11 +153,11 @@ msgstr "Sistēmas konfigurācija un pārraudzība"
 
 #: desktop-directories/mate-utility-accessibility.directory.in:3
 msgid "Universal Access"
-msgstr "Universālā piekļuve"
+msgstr "Universālā pieeja"
 
 #: desktop-directories/mate-utility-accessibility.directory.in:4
 msgid "Universal Access Settings"
-msgstr "Universālās piekļuves iestatījumi"
+msgstr "Universālās pieejas iestatījumi"
 
 #: desktop-directories/mate-utility.directory.in:3
 msgid "Accessories"
@@ -172,7 +174,7 @@ msgstr "Lietotnes"
 
 #: desktop-directories/mate-menu-system.directory.in:4
 msgid "Personal preferences and administration settings"
-msgstr "Personīgie un administrācijas iestatījumi"
+msgstr "Personīgie un administrēšanas iestatījumi"
 
 #: desktop-directories/mate-other.directory.in:3
 msgid "Other"
